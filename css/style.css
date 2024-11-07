@@ -1,0 +1,123 @@
+@import url('https://fonts.googleapis.com/css2?family=Baskervville+SC&family=Edu+VIC+WA+NT+Beginner:wght@400..700&family=Oswald:wght@200..700&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Vollkorn:ital,wght@0,400..900;1,400..900&display=swap');
+
+*
+{
+	font-family: 'poppins';
+	font-weight: 500 !important;
+
+}
+
+h1,h2,h3,h4,h5,h6
+{
+	text-shadow: 0px 0px 2px  #63b3c2 !important;
+}
+.logo img
+{
+	width:100px !important;
+}
+
+.navbar .project a
+{
+	border-radius: 5px !important;
+	text-shadow: 0px 0px 2px  #63b3c2 !important;
+
+}
+
+.navbar .project a:hover{
+
+	color: #fff !important;
+	background-color:#63b3c2 !important;
+	transition: all 0.5s ease-in-out !important;
+	padding: 7px !important;
+	box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.2);
+
+}
+.navbar .project1 i
+{
+	text-shadow: 0px 0px 2px  #63b3c2 !important;
+}
+
+.navbar .project1 a:hover
+{
+	border-radius: 25px !important;
+	color: #fff !important;
+	background-color:#63b3c2 !important;
+	transition: all 0.8s ease-in-out !important;
+	padding: 7px !important;
+	box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.2);
+
+}
+
+#contact_section .contact_section .row input:focus
+{
+	border: 2px solid white !important;
+
+    border-color: white !important; /* Change the border color */
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.8) !important; /* Add a subtle box shadow */
+
+}
+
+#contact_section button
+{
+	border: 2px white !important;
+}
+#contact_section button:hover
+{
+	 box-shadow: 0 0 10px rgba(238, 238, 238, 0.8) !important;
+}
+.contact_section{
+	background-color:#d4dcdc !important;
+}
+.error
+{
+	color:red !important;
+}
+
+#reviews input:hover
+{
+	border: 2px solid white !important;
+
+    border-color: white !important; /* Change the border color */
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.8) !important; /* Add a subtle box shadow */
+}
+.contact_link a:hover
+{
+border-radius: 10px !important;
+	color: #fff !important;
+	background-color:#63b3c2 !important;
+	transition: all 0.5s ease-in-out !important;
+	padding: 7px !important;
+	box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.2);
+}
+.container-fluid 
+{
+	box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.5);
+	background-color: #d4dcdc !important;
+}
+footer
+{
+	text-shadow: 0px 0px 2px #63b3c2 !important;
+}
+#our_services .row a:hover
+{
+	border: none !important;
+	color: black	 !important;
+	background-color:#fff !important;
+	text-shadow: 0px 0px 2px #63b3c2 !important;
+	transition: all 0.4s ease-in-out !important;
+	box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.5);
+
+}
+
+.review_btn:hover
+{
+	border: none !important;
+	color: darkgrey; !important;
+	background-color:#fff !important;
+	transition: all 0.4s ease-in-out !important;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.8) !important;
+
+}
+
+
+
